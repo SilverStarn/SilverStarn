@@ -2,7 +2,7 @@
 - 👀 I’m interested in AWS / Machine Learning / Data Science 
 - 🌱 I’m currently learning Python and AI
 - 💞️ I’m looking to collaborate on any interesting project 
-- 📫 How to reach me : Choi#1214
+- 📫 How to reach me : discord (Choi#1214)
 
 <!---
 SilverStarn/SilverStarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
